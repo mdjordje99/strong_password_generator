@@ -1,0 +1,25 @@
+body{
+    background-color: #a7a7a7;
+}
+#password{
+    width: 200px;
+    height: 30px;
+    display: block;
+    margin: auto;
+    border: 2px solid rgb(155, 139, 139);
+    border-radius: 7px;
+    font-size: 100%;
+    text-align: center;
+    font-family: RobotoCondensed;
+}
+#reload{
+    display: block;
+    margin: auto;
+    width: 50px;
+    margin-top: 12px;
+}
+
+@font-face {
+    font-family: RobotoCondensed;
+    src: url(fonts/RobotoCondensed-Regular.ttf);
+}

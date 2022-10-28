@@ -1,6 +1,7 @@
-V1.1
-
-+ Password field is read-only now.
+V2.0
 
 Strong Password Generator is software for generating strong passwords with random characters.
-Unfortunately, the generator current only works with numbers and letters, but we are working on fixing that.
+
++ Password field is editable again.
++ Whole app is redesigned and its mobile friendly now.
++ The generator current only works with all characters (including upper and lower case letters).

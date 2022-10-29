@@ -22,5 +22,3 @@ copy.addEventListener('click', function(){
     navigator.clipboard.writeText(password.value);
     copied.innerHTML = 'Copied';
 });
-
-// Sredi dizajn

@@ -4,4 +4,4 @@ Strong Password Generator is software for generating strong passwords with rando
 
 + Password field is editable again.
 + Whole app is redesigned and its mobile friendly now.
-+ The generator current only works with all characters (including upper and lower case letters).
++ The generator current works with all characters (including upper and lower case letters).
